@@ -1,6 +1,6 @@
  <h1 align="centre">WELCOME</h1>
 <h1 align="center">Hi 👋, I'm Thomas Varghese</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
 <imh align= "right" alt="Coding" width="400" src="https://www.csoonline.com/wp-content/uploads/2023/09/anonymous_hooded_figure_consisting_of_binary_code_stands_in_a_virtual_corridor_of_circuits_hacker_identity_by_cosmin4000_gettyimages-516143404_2400x1600-100858205-orig.jpg?quality=50&strip=all&w=1024">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meetthomas&label=Profile%20views&color=0e75b6&style=flat" alt="meetthomas" /> </p>
